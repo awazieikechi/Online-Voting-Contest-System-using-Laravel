@@ -1,1 +1,1 @@
-# Online-Voting-Contest-System-using-Laravel
+This system was designed to be used as a voting contest. Each of the participant are to post their videos and users will be allowed to vote 5 times every day. It also has a dashboard to see the winners and also the votes of each participant
